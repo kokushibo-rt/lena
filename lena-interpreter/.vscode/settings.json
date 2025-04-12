@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.configurationProvider": "mesonbuild.mesonbuild",
+    "C_Cpp.default.compileCommands": "/home/kokushibo/Projects/lena/lena-interpreter/builddir/compile_commands.json",
+    "files.associations": {
+        "cstdlib": "c",
+        "ffi.h": "c"
+    }
+}
